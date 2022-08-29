@@ -1,45 +1,32 @@
 ---
 title: "Reza Mohammadi"
-image: "sigridur.jpg"
+image: "Reza.jpg"
 links:
-  - label: Resume
-    url: "https://linkedin.com/"
-  - label: Blog
-    url: "https://medium.com/"
-  - label: SoundCloud
-    url: "https://soundcloud.com/"
+  - label: Linkedin
+    url: "https://www.linkedin.com/in/rezamohammadi1/"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=VrO0qG0AAAAJ"
+  - label: ORCID
+    url: "https://orcid.org/0000-0001-9538-0648"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/Reza_Mohammadi2"
 output:
   postcards::solana
 ---
  
 ## Bio
 
-Sigríður Björndotter is a musician, vocalist, and live entertainment consultant
-living in Buenos Aires, Argentina. Her writing has appeared in Rolling Stone,
-Billboard, and NME, and she is a frequent contributor to National Public Radio's 
-*All Songs Considered*. She has been raising Pembroke Welsh Corgis since the age
-of six, and she has collected Casio watches since the age of ten.
+I am an Assistant Professor of Data Science at the Business Analytics Section of the University of Amsterdam. As a data scientist and statistician, my research interests lie in developing efficient computational methods for inference and learning from high-dimensional multivariate data that routinely arise in econometrics, machine learning, neuroscience, and health care. My current research is focused on developing Bayesian statistical methods in graphical models for multivariate statistical analysis to understand the underlying mechanisms in complex systems. These methods have a wide range of applications, such as health care to capture brain connectivity to treat Alzheimer's.
 
-## Education
-
-**INSEAD** | Fontainebleau, France
-
-M.B.A. | August 2014 - June 2015
-
-**The Juilliard School** | New York, NY
-
-B.F.A. in Music Performance | August 2005 - May 2009
+I joined the Business Analytics Section of the University of Amsterdam as an Assistant Professor in November 2017. During 2016-2017, I worked as a postdoctoral researcher as a statistician at the Department of Methodology and Statistics at the Tilburg University and Jheronimus Academy of Data Science (JADS). In 2015, I received my Ph.D. in Statistics from the University of Groningen.
 
 ## Experience
 
-**Freelance** | Live Entertainment Consultant | August 2018 - Present
+**University of Amsterdam** | Assistant Professor (tenure-track) | December 2017 - Present
 
-**Cercle** | Producer | August 2018 - Present
+**York University** | Guest Researcher | February 2018 - May 2018
 
-**National Public Radio** | Producer | May 2015 - July 2018
+**Tilburg University** | Postdoctoral Fellow | January 2016 - November 2017
 
-**NME Magazine** | Editor | July 2014 - July 2016
+**University of Groningen** | Ph.D. Researcher | April 2011 - April 2015
 
-**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
